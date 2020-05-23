@@ -9,8 +9,9 @@ title: About
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  Anika Raghuvanshi is pursuing her Master's degree in Cybersecurity at
-  Stanford University. She
+  Anika Raghuvanshi is pursuing her Master's degree in Computer Science,
+  focused on cybersecurity and cryptography at Stanford University. She enjoys
+  spending time in the outdoors and dancing.
 
 # You can show the description on the page by deleting this line:
 hide_description: true
